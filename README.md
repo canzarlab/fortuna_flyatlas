@@ -1,6 +1,6 @@
 # fortuna_flyatlas
 
 ## Dependencies
-fortuna
-Cellranger
-samtools
+* fortuna
+* Cellranger
+* samtools
